@@ -43,7 +43,6 @@ The objective of this experiment is to implement the Random Forest Algorithm to 
 ## Program:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Program to implement the Random Forest Algorithm to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data.
 Developed by: ADITYAH M S
 RegisterNumber:  212223220002
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
